@@ -1,5 +1,5 @@
 # hangman
-CS 101 Spring 2018
+Spring 2018 CS101 (Introduction to CS) Assignments #4 and #5
 
 This was an assignment for my intro to programming class.
 Hangman instructions: https://docs.google.com/document/d/1e79vggjLc389Y9AW6_qAAo2FyhjjQaW_Ofnrdp-QxI0/edit#heading=h.dfbkxtalt81v
